@@ -6,8 +6,8 @@ has_children: true
 has_toc: false
 ---
 ## Comparison
-| Tiers                                                | Antibot | Max |
-|------------------------------------------------------|:-------:|:---:|
+| Tiers                                                |  Antibot  | Max  |
+|------------------------------------------------------|:---------:|:----:|
 | Powerful Antibot                                     |    ✅    |  ✅  |
 | Moderation toolset                                   |    ❌    |  ✅  |
 | Banpool join/creation                                |    ❌    |  ✅  |
