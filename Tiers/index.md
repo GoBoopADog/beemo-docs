@@ -14,5 +14,3 @@ has_toc: false
 |Highly configurable text and voice channel XP system|❌|✅|
 |Consumable credits system ("Honey")|❌|✅|
 |Access to all of Beemo's future features|❌|✅|
-
-✅❌
